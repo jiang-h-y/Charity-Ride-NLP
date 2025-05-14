@@ -15,8 +15,14 @@ From these forums, I used web scraping to extract the text from user posts. Then
 📈 Results:\
 The polarity scores for each of the three forums were 0.12, 0.16, and 0.19. These scores indicate neutral to slightly positive reactions from users about charity bike rides.
 
-## 2. LDA
+## 2. Latent Dirichlet Allocation (LDA)
 
-📄 Description:
+📄 Description:\
+LDA is a technique for identifying the main topics in a collection of documents.
 
 📈 Results:
+| Forum                                  | Main Topic                               |
+|----------------------------------------|------------------------------------------|
+| Bikers over 50                         | food support century club course         |
+| Minimum fundraising requirements       | minimum fee costs money people           |
+| Experience and impact of charity rides | community personal social change fitness |
