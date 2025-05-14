@@ -15,7 +15,7 @@ From these forums, I used web scraping to extract the text from user posts. Then
 📈 Results:\
 The polarity scores for each of the three forums were 0.12, 0.16, and 0.19. These scores indicate neutral to slightly positive reactions from users about charity bike rides.
 
-## 2. Latent Dirichlet Allocation (LDA)
+## 2. Latent Dirichlet Allocation (LDA) Analysis
 
 📄 Description:\
 LDA is a technique for identifying the main topics in a collection of documents.
