@@ -1,4 +1,4 @@
-# Charity-Ride-NLP
+# Charity Ride Exploratory Analysis
 
 This program uses web scraping and Natural Language Processing (NLP) techniques to gain customer insights on charity bike rides. This program is intended to supplement exploratory and descriptive marketing research.
 
