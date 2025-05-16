@@ -21,6 +21,8 @@ From these forums, I used web scraping to extract the text from user posts. Then
 
 These scores indicate neutral to slightly positive reactions from users about charity bike rides.
 
+Note: Polarizing opinions on the forum posts may have balanced out to an overall neutral score.
+
 ## 2. Latent Dirichlet Allocation (LDA) Analysis
 
 📄 Description:
